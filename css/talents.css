@@ -687,6 +687,11 @@ h5 {
   height: 16.243vw;
 }
 
+#ilyaS7 img {
+  width: 24.268vw;
+  height: 16.243vw;
+}
+
 #vitaly1 img {
   width: 27.341vw;
   height: 16.243vw;
@@ -1509,6 +1514,11 @@ h5 {
   }
 
   #ilyaS6 img {
+    width: 87.436vw;
+    height: auto;
+  }
+
+  #ilyaS7 img {
     width: 87.436vw;
     height: auto;
   }
