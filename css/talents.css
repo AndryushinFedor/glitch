@@ -762,6 +762,16 @@ h5 {
   height: 16.243vw;
 }
 
+#duet7 img {
+  width: 28.555vw;
+  height: 16.243vw;
+}
+
+#duet8 img {
+  width: 27.341vw;
+  height: 16.243vw;
+}
+
 .removed2 {
   animation: none;
   opacity: 1;
@@ -1593,6 +1603,17 @@ h5 {
     width: 87.436vw;
     height: auto;
   }
+
+  #duet7 img {
+    width: 87.436vw;
+    height: auto;
+  }
+
+  #duet8 img {
+    width: 87.436vw;
+    height: auto;
+  }
+
 
   .footerCopyright {
     padding-top: 14vw;
