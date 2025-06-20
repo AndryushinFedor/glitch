@@ -147,12 +147,12 @@ h2 {
 }
 
 #l2 img {
-  width: 32.717vw;
+  width: 49.085vw;
   height: 21.329vw;
 }
 
 #l3 img {
-  width: 49.085vw;
+  width: 32.717vw;
   height: 21.329vw;
 }
 
@@ -162,7 +162,7 @@ h2 {
 }
 
 #l5 img {
-  width: 36.768vw;
+  width: 43.476vw;
   height: 21.329vw;
 }
 
@@ -190,7 +190,7 @@ h2 {
 
 .portfolio {
   position: relative;
-  height: 500vw;
+  height: 530vw;
 }
 
 .portfolio2 {
@@ -364,25 +364,46 @@ h2 {
   }
 }
 
+.draggablef_1 {
+  opacity: 0;
+  left: 2.775vw;
+  top: 8vw;
+  animation: glitchdrag_onload 0.1s 0.3s 1 forwards;
+}
+
+.draggablef_2 {
+  opacity: 0;
+  left: 42.775vw;
+  top: 12vw;
+  animation: glitchdrag_onload 0.4s 0.2s 1 forwards;
+}
+
+.draggablef_3 {
+  opacity: 0;
+  left: 62.775vw;
+  top: 4vw;
+  animation: glitchdrag_onload 0.15s 0.2s 1 forwards;
+}
+
 
 .draggable0_1 {
   opacity: 0;
   left: 2.775vw;
-  top: 18.150vw;
+  top: 48.150vw;
   animation: glitchdrag_onload 0.3s 0.1s 1 forwards;
 }
 
 .draggable0_2 {
   opacity: 0;
   left: 27.514vw;
-  top: 4.428vw;
+  top: 34.428vw;
   animation: glitchdrag_onload 0.1s 0.2s 1 forwards;
 }
 
 .draggable0_3 {
   opacity: 0;
   left: 57.977vw;
-  top: 15.925vw;
+  top: 45.925vw;
   z-index: 2;
   animation: glitchdrag_onload 0.4s 0.2s 1 forwards;
 }
@@ -390,270 +411,283 @@ h2 {
 .draggable0_4 {
   opacity: 0;
   left: 74.509vw;
-  top: 7.919vw;
+  top: 37.919vw;
   animation: glitchdrag_onload 0.3s 0.1s 1 forwards;
 }
 
 .draggable0_5 {
   opacity: 0;
   left: 66.012vw;
-  top: 34.798vw;
+  top: 64.798vw;
   animation: glitchdrag_onload 0.2s 0.15s 1 forwards;
 }
 
 .draggable0_6 {
   opacity: 0;
   left: 6.069vw;
-  top: 53.121vw;
+  top: 83.121vw;
   animation: glitchdrag_onload 0.1s 0.2s 1 forwards;
 }
 
 .draggable0_7 {
   opacity: 0;
   left: 37.052vw;
-  top: 30.457vw;
+  top: 60.457vw;
   animation: glitchdrag_onload 0.32s 0.14s 1 forwards;
 }
 
 .draggable0_8 {
   opacity: 0;
   left: 58.150vw;
-  top: 51.503vw;
+  top: 81.503vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 
 .draggable0_9 {
   opacity: 0;
   left: 4.682vw;
-  top: 88.728vw;
+  top: 118.728vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 
 .draggable0_10 {
   opacity: 0;
   left: 23.873vw;
-  top: 69.769vw;
+  top: 99.769vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 
 .draggable0_11 {
   opacity: 0;
   left: 52.486vw;
-  top: 73.815vw;
+  top: 103.815vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 
 .draggable0_12 {
   opacity: 0;
   left: 16.012vw;
-  top: 102.428vw;
+  top: 132.428vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 
 .draggable0_13 {
   opacity: 0;
   left: 48.960vw;
-  top: 103.757vw;
+  top: 133.757vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 
 .draggable0_14 {
   opacity: 0;
   left: 65.665vw;
-  top: 97.110vw;
+  top: 127.110vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 
 .draggable1 {
   opacity: 0;
   left: 0vw;
-  top: 134.965vw;
+  top: 164.965vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 .draggable2 {
   opacity: 0;
   left: 24.104vw;
-  top: 144.676vw;
+  top: 174.676vw;
   /* animation: glitchdrag_onload 0.1s 0.2s 1 forwards; */
 }
 .draggable3 {
   opacity: 0;
   left: 35.613vw;
-  top: 127.728vw;
+  top: 157.728vw;
   /* animation: glitchdrag_onload 0.2s 0.12s 1 forwards; */
 }
 .draggable4 {
   z-index: 2;
   opacity: 0;
   left: 47.867vw;
-  top: 184.191vw;
+  top: 214.191vw;
   /* animation: glitchdrag_onload 0.2s 0.13s 1 forwards; */
 }
 .draggable5 {
   opacity: 0;
   left: 64.341vw;
-  top: 123.52vw;
+  top: 153.52vw;
   /* animation: glitchdrag_onload 0.3s 0.1s 1 forwards; */
 }
 .draggable5_0 {
   opacity: 0;
   left: 50.341vw;
-  top: 148.52vw;
+  top: 178.52vw;
   /* animation: glitchdrag_onload 0.1s 0.1s 1 forwards; */
 }
 .draggable6_0 {
   opacity: 0;
   left: 34.268vw;
-  top: 157.988vw;
+  top: 187.988vw;
   z-index: 2;
   /* animation: glitchdrag_onload 0.15s 0.1s 1 forwards; */
 }
 .draggable7_0 {
   opacity: 0;
   left: 27.341vw;
-  top: 178.52vw;
+  top: 208.52vw;
   /* animation: glitchdrag_onload 0.3s 0.2s 1 forwards; */
 }
 .draggable8_0 {
   opacity: 0;
   left: 4vw;
-  top: 173.52vw;
+  top: 203.52vw;
   /* animation: glitchdrag_onload 0.1s 0.1s 1 forwards; */
 }
 .draggable6 {
   opacity: 0;
   left: 7.058vw;
-  top: 198.665vw;
+  top: 228.665vw;
   /* animation: glitchdrag_onload 0.2s 0.1s 1 forwards; */
 }
 .draggable7 {
   opacity: 0;
   left: 37.578vw;
-  top: 224.642vw;
+  top: 254.642vw;
   /* animation: glitchdrag_onload 0.4s 0.2s 1 forwards; */
 }
 .draggable8 {
   opacity: 0;
   left: 2.087vw;
-  top: 220.728vw;
+  top: 250.728vw;
   /* animation: glitchdrag_onload 0.12s 0.1s 1 forwards; */
 }
 .draggable9 {
   opacity: 0;
   left: 2vw;
-  top: 255.237vw;
+  top: 285.237vw;
   z-index: 3;
   /* animation: glitchdrag_onload 0.14s 0.15s 1 forwards; */
 }
 .draggable10 {
   opacity: 0;
   left: 61.855vw;
-  top: 221.919vw;
+  top: 251.919vw;
   /* animation: glitchdrag_onload 0.18s 0.3s 1 forwards; */
 }
 
 .draggable11 {
   left: 0vw;
-  top: 235.179vw;
+  top: 265.179vw;
 }
 .draggable12 {
   left: 34.861vw;
-  top: 270vw;
+  top: 300vw;
 }
 .draggable13 {
   left: 46.942vw;
-  top: 243.734vw;
+  top: 273.734vw;
 }
 .draggable14 {
   left: 11.682vw;
-  top: 284.775vw;
+  top: 304.775vw;
 }
 .draggable15 {
   left: 64.861vw;
-  top: 298.694vw;
+  top: 328.694vw;
 }
 .draggable16 {
   left: 1.064vw;
-  top: 310.844vw;
+  top: 340.844vw;
 }
 .draggable17 {
   left: 23.63vw;
-  top: 315.41vw;
+  top: 345.41vw;
 }
 .draggable18 {
   left: 48.445vw;
-  top: 340.85vw;
+  top: 370.85vw;
 }
 .draggable19 {
   left: 11.682vw;
-  top: 337.029vw;
+  top: 367.029vw;
 }
 .draggable20 {
   left: 0vw;
-  top: 412vw;
+  top: 442vw;
 }
 
 .draggable21 {
   left: 76.653vw;
-  top: 328.532vw;
+  top: 358.532vw;
 }
 .draggable22 {
   left: 3.705vw;
-  top: 362.231vw;
+  top: 392.231vw;
 }
 .draggable23 {
   left: 33.763vw;
-  top: 368.879vw;
+  top: 398.879vw;
 }
 .draggable24 {
   left: 52.954vw;
-  top: 360vw;
+  top: 390vw;
 }
 .draggable25 {
   left: 8.791vw;
-  top: 383.618vw;
+  top: 413.618vw;
 }
 .draggable26 {
   left: 41.162vw;
-  top: 394vw;
+  top: 424vw;
 }
 .draggable27 {
   left: 61.855vw;
-  top: 384vw;
+  top: 414vw;
 }
 
 .draggable28 {
   left: 28.902vw;
-  top: 415vw;
+  top: 445vw;
 }
 
 .draggable29 {
   left: 39.11vw;
-  top: 443vw;
+  top: 473vw;
   z-index: 2;
 }
 
 .draggable30 {
   left: 72vw;
-  top: 425vw;
+  top: 455vw;
 }
 
 .draggable31 {
   left: 12.183vw;
-  top: 457vw;
+  top: 487vw;
 }
 
 .draggable32 {
   left: 6.585vw;
-  top: 437vw;
+  top: 467vw;
 }
 
 .draggable33{
   left: 64.768vw;
-  top: 469vw;
+  top: 499vw;
 }
 
+.draggablef_1 img {
+  width: 31.387vw;
+  height: 23.873vw;
+}
 
+.draggablef_2 img {
+  width: 21.387vw;
+  height: 16.763vw;
+}
+
+.draggablef_3 img {
+  width: 30.925vw;
+  height: 20.983vw;
+}
 .draggable0_1 img {
   width: 26.994vw;
   height: 25.607vw;
@@ -2179,6 +2213,21 @@ a {
     padding-top: 6vw;
   }
 
+  #draggablef_1 {
+    top: 0;
+    left: 0;
+  }
+
+  #draggablef_2 {
+    top: 0;
+    left: 0;
+  }
+
+  #draggablef_3 {
+    top: 0;
+    left: 0;
+  }
+
   #draggable0_1 {
     top: 0;
     left: 0;
@@ -2443,6 +2492,21 @@ a {
   #draggable33 {
     top: 0;
     left: 0;
+  }
+
+  #draggablef_1 img {
+    width: 95vw;
+    height: auto;
+  }
+
+  #draggablef_2 img {
+    width: 95vw;
+    height: auto;
+  }
+
+  #draggablef_3 img {
+    width: 95vw;
+    height: auto;
   }
 
   #draggable0_1 img {

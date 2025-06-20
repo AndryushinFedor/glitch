@@ -20,6 +20,24 @@ window.onload = function(){
     });
 
   $(function() {
+    $( "#draggablef_1" ).draggable({stack: 'div'});
+    $('#draggablef_1').addClass('shadow');
+    
+    });
+
+  $(function() {
+    $( "#draggablef_2" ).draggable({stack: 'div'});
+    $('#draggablef_2').addClass('shadow');
+        
+    });
+
+  $(function() {
+    $( "#draggablef_3" ).draggable({stack: 'div'});
+    $('#draggablef_3').addClass('shadow');
+          
+    }); 
+
+  $(function() {
     $( "#draggable0_2" ).draggable({stack: 'div'});
     $('#draggable0_2').addClass('shadow');
   

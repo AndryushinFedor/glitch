@@ -767,8 +767,8 @@ h3 {
   top: 7vw;
 }
 #crewCard2 {
-  left: 39.1vw;
-  top: 41.3vw;
+  left: 60vw;
+  top: 76vw;
 }
 #crewCard3 {
   left: 32.5vw;
@@ -776,15 +776,15 @@ h3 {
 }
 #crewCard4 {
   left: 62.8vw;
-  top: 3vw;
+  top: 5vw;
 }
 #crewCard5 {
   left: 4.5vw;
   top: 39.1vw;
 }
 #crewCard6 {
-  left: 10.6vw;
-  top: 58.6vw;
+  left: 26vw;
+  top: 47vw;
 }
 #crewCard7 {
   left: 0vw;
@@ -795,12 +795,12 @@ h3 {
   top: 61.5vw;
 }
 #crewCard9 {
-  left: 0.4vw;
-  top: 87.2vw;
+  left: 54vw;
+  top: 106vw;
 }
 #crewCard10 {
-  left: 24.7vw;
-  top: 98.2vw;
+  left: 58vw;
+  top: 144vw;
 }
 
 /* #crewCard11 {
@@ -809,51 +809,50 @@ h3 {
 } */
 
 #crewCard12 {
-  left: 1vw;
-  top: 188.7vw;
+  left: 35vw;
+  top: 181vw;
 }
 #crewCard13 {
-  left: 51.8vw;
-  top: 82.3vw;
+  left: 57vw;
+  top: 40vw;
 }
 #crewCard14 {
-  left: 58.4vw;
-  top: 112.4vw;
+  left: 2vw;
+  top: 102vw;
 }
 #crewCard15 {
-  left: 12vw;
-  top: 158.9vw;
+  left: 28vw;
+  top: 118vw;
 }
 #crewCard16 {
-  left: 32.8vw;
-  top: 148.8vw;
+  left: 0vw;
+  top: 72vw;
 }
 #crewCard17 {
-  left: 65.8vw;
-  top: 160vw;
+  left: 33vw;
+  top: 154vw;
 }
 #crewCard18 {
-  left: 4.5vw;
-  top: 124.2vw;
+  left: 5vw;
+  top: 158vw;
 }
 #crewCard19 {
-  left: 39.1vw;
-  top: 124.7vw;
-  /* left: 27vw;
-  top: 202.6vw; */
+  left: 11vw;
+  top: 135vw;
+
 }
 #crewCard20 {
-  left: 41.4vw;
-  top: 178.9vw;
+  left: 60vw;
+  top: 174vw;
 }
 #crewCard21 {
-  left: 61.1vw;
-  top: 191.6vw;
+  left: 0vw;
+  top: 191vw;
 }
 
 #crewCard22 {
-  left: 6vw;
-  top: 222vw;
+  left: 30vw;
+  top: 82vw;
 }
 
 #crewCard23 {
@@ -875,7 +874,7 @@ h3 {
   animation-delay: 3s;
 }
 #crewCard2 img {
-  width: 14.6vw;
+  width: 16vw;
   height: auto;
   animation-iteration-count: infinite;
   animation-name: slide2;
@@ -1133,7 +1132,7 @@ h5 {
 
 .aboutCrew {
   position: relative;
-  height: 250vw;
+  height: 230vw;
 }
 
 .navbar2 {
