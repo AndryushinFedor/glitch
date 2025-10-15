@@ -166,6 +166,11 @@ h2 {
   height: 21.329vw;
 }
 
+#l6 img {
+  width: 32.717vw;
+  height: 21.329vw;
+}
+
 .portfolio h3 {
   margin: 0;
   font-family: "Decima Mono Cyr";
@@ -2198,6 +2203,11 @@ a {
   }
 
   #l5 img {
+    width: 95vw;
+    height: auto;
+  }
+
+  #l6 img {
     width: 95vw;
     height: auto;
   }

@@ -79,11 +79,31 @@ $(function () {
       "top": e.clientY
     });
   }).mouseout(function () {
-    $(".cursor").hide();
+    $(".cursor2").hide();
   });
 });
 $(function () {
   $("#testarea5").mousemove(function (e) {
+    $(".cursor2").show().css({
+      "left": e.clientX,
+      "top": e.clientY
+    });
+  }).mouseout(function () {
+    $(".cursor2").hide();
+  });
+});
+$(function () {
+  $("#testarea8").mousemove(function (e) {
+    $(".cursor2").show().css({
+      "left": e.clientX,
+      "top": e.clientY
+    });
+  }).mouseout(function () {
+    $(".cursor2").hide();
+  });
+});
+$(function () {
+  $("#testarea7").mousemove(function (e) {
     $(".cursor2").show().css({
       "left": e.clientX,
       "top": e.clientY
